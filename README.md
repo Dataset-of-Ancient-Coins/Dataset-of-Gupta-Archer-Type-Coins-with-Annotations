@@ -27,7 +27,7 @@ This dataset contains following coin of the **Gupta Archer Type**
 Total of 537 coins images
 
 ## Copyright informations
-Following auction has houses given permision to use these coins:
+Following auction houses has given permision to use these coins:
   - Marudhar Arts (188)
   - Coin India (78)
   - Classical Numismatic Gallery (51)
