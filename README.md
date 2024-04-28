@@ -32,7 +32,7 @@ Following auction houses has given permision to use these coins:
   - Coin India (78)
   - Classical Numismatic Gallery (51)
 
-[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts [Coin India](https://www.coinindia.com/) © CoinIndia  [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
+[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Coin India](https://www.coinindia.com/) © CoinIndia,  [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
     
 From private and personal collection
   - Private (220)
