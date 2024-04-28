@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Sasanka Coin Dataset
+# Gupta Archer Coin Dataset
 
 ## Image information
 
