@@ -37,6 +37,6 @@ Following auction houses has given permision to use these coins:
 From private and personal collection
   - Private (220)
 
-***Dr. Ishtiak Al Mamoon*** Reg. No- S10400/2009 Life Membe, Bangladesh Numismatic Collectors’ Society
+***Dr. Ishtiak Al Mamoon*** Reg. No- S10400/2009 Life Member, Bangladesh Numismatic Collector’s Society
 
 
