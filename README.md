@@ -14,7 +14,7 @@ This dataset contains the following **Gupta archer-type** coins:
   - Kumaragupta I (70 Images)
   - Kumaragupta II (8 Images)
   - Kumaragupta III (7 Images)
-  - Later gupta and Hunic King (7 Images)
+  - Later Gupta and Hunic King (7 Images)
   - Narasimhagupta I (19 Images)
   - Narasimhagupta II (5 Images)
   - Parakramaditya (3 Images)
