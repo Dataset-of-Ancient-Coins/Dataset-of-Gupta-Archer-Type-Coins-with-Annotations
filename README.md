@@ -4,7 +4,7 @@
 
 ## Image Information
 
-This dataset contains following **Gupta Archer-type** coins:
+This dataset contains the following **Gupta archer-type** coins:
   - Budhagupta (5 Images)
   - Chandragupta I (28 Images)
   - Chandragupta II (250 Images)
