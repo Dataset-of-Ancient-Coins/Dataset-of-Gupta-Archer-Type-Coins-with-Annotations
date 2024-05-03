@@ -1,41 +1,41 @@
 <!-- @format -->
 
-# Gupta Archer Coin Dataset
+# Gupta Archer Type Coin Dataset
 
 ## Image information
 
-This dataset contains following coin of the **Gupta Archer Type**
-  - Budhagupta (5)
-  - Chandragupta I (28)
-  - Chandragupta II (250)
-  - Chandragupta III (17)
-  - Ghatotkachagupta (2)
-  - Jayagupta (7)
-  - Kumaragupta I (70)
-  - Kumaragupta II (8)
-  - Kumaragupta III (7)
-  - Later gupta and Hunic King (7)
-  - Narasimhagupta I (19)
-  - Narasimhagupta II (5)
-  - Parakramaditya (3)
-  - Samacharadeva (4)
-  - Samudragupta (39)
-  - Skandagupta (47)
-  - Vainyagupta (3)
-  - Vishnugupta (15)
+This dataset contains following **Gupta Archer-type** coins:
+  - Budhagupta (5 Images)
+  - Chandragupta I (28 Images)
+  - Chandragupta II (250 Images)
+  - Chandragupta III (17 Images)
+  - Ghatotkachagupta (2 Images)
+  - Jayagupta (7 Images)
+  - Kumaragupta I (70 Images)
+  - Kumaragupta II (8 Images)
+  - Kumaragupta III (7 Images)
+  - Later gupta and Hunic King (7 Images)
+  - Narasimhagupta I (19 Images)
+  - Narasimhagupta II (5 Images)
+  - Parakramaditya (3 Images)
+  - Samacharadeva (4 Images)
+  - Samudragupta (39 Images)
+  - Skandagupta (47 Images)
+  - Vainyagupta (3 Images)
+  - Vishnugupta (15 Images)
 
-Total of 536 coins images
+Total: 536 coin images
 
 ## Copyright information
-Following auction houses has given permision to use these coins:
-  - Marudhar Arts (188)
-  - Coin India (78)
-  - Classical Numismatic Gallery (51)
+Following auction houses have granted permission to use these coins:
+  - Marudhar Arts (188 Images)
+  - Coin India (78 Images)
+  - Classical Numismatic Gallery (51 Images)
 
 [Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Coin India](https://www.coinindia.com/) © CoinIndia,  [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
     
-From private and personal collection
-  - Private (220)
+From a private and personal collection:
+  - Private Collection (220 Images)
 
 ***Dr. Ishtiak Al Mamoon*** Reg. No- S10400/2009 Life Member, Bangladesh Numismatic Collector’s Society
 
