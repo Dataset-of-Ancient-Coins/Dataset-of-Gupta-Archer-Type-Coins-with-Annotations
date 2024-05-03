@@ -2,7 +2,7 @@
 
 # Gupta Archer Type Coin Dataset
 
-## Image information
+## Image Information
 
 This dataset contains following **Gupta Archer-type** coins:
   - Budhagupta (5 Images)
@@ -26,7 +26,7 @@ This dataset contains following **Gupta Archer-type** coins:
 
 Total: 536 coin images
 
-## Copyright information
+## Copyright Information
 Following auction houses have granted permission to use these coins:
   - Marudhar Arts (188 Images)
   - Coin India (78 Images)
