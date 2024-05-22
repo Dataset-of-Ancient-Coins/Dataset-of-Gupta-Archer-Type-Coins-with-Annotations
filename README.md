@@ -6,13 +6,13 @@
 
 This dataset contains the following **Gupta archer-type** coins:
   - Budhagupta (5 Images)
-  - Chandragupta I (28 Images)
-  - Chandragupta II (250 Images)
+  - Chandragupta I (25 Images)
+  - Chandragupta II (237 Images)
   - Chandragupta III (17 Images)
   - Ghatotkachagupta (2 Images)
   - Jayagupta (7 Images)
-  - Kumaragupta I (70 Images)
-  - Kumaragupta II (8 Images)
+  - Kumaragupta I (62 Images)
+  - Kumaragupta II (7 Images)
   - Kumaragupta III (7 Images)
   - Later Gupta and Hunic King (7 Images)
   - Narasimhagupta I (19 Images)
@@ -20,22 +20,22 @@ This dataset contains the following **Gupta archer-type** coins:
   - Parakramaditya (3 Images)
   - Samacharadeva (4 Images)
   - Samudragupta (39 Images)
-  - Skandagupta (47 Images)
+  - Skandagupta (44 Images)
   - Vainyagupta (3 Images)
-  - Vishnugupta (15 Images)
+  - Vishnugupta (14 Images)
 
-Total: 536 coin images
+Total: 507 coin images
 
 ## Copyright Information
 The following auction houses have granted permission to use these coins:
-  - Marudhar Arts (188 Images)
-  - Coin India (78 Images)
+  - Marudhar Arts (186 Images)
+  - Oswal Auction (52 Images)
   - Classical Numismatic Gallery (51 Images)
 
-[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Coin India](https://www.coinindia.com/) © CoinIndia,  [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
+[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Oswal Auction - Mumbal]([https://www.coinindia.com/](https://oswal.auction/default.aspx)) © CoinIndia,  [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
     
 From a private and personal collection:
-  - Private Collection (219 Images)
+  - Private Collection (218 Images)
 
 ***Dr. Ishtiak Al Mamoon*** Reg. No- S10400/2009 Life Member, Bangladesh Numismatic Collector’s Society
 
