@@ -32,7 +32,7 @@ The following auction houses have granted permission to use these coins:
   - Oswal Auction (52 Images)
   - Classical Numismatic Gallery (51 Images)
 
-[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Oswal Auction - Mumbal]([https://www.coinindia.com/](https://oswal.auction/default.aspx)) © CoinIndia,  [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
+[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Oswal Auction]((https://oswal.auction/default.aspx)) © Oswal Auction - Mumbal,  [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
     
 From a private and personal collection:
   - Private Collection (218 Images)
